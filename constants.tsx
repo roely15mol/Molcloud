@@ -42,17 +42,17 @@ export const SKILLS_CATEGORIZED = [
 
 export const EXPERIENCE = [
     {
-        role: 'Security and Compliance Manager',
-        company: 'Solvinity',
-        duration: 'Feb 2025 - Present',
-        description: 'Overseeing security and compliance initiatives, ensuring adherence to industry standards and regulations, and managing risk assessments and mitigation strategies.'
-    },
-    {
         role: 'Cloud Engineer',
         company: 'Solvinity',
         duration: 'Jan 2020 - Present',
         description: 'Developed and maintained cloud infrastructure, implemented CI/CD pipelines, and collaborated with cross-functional teams.'
-    }
+    },
+    {
+        role: 'Security and Compliance Manager',
+        company: 'Solvinity',
+        duration: 'Feb 2025 - Aug 2025',
+        description: 'Overseeing security and compliance initiatives, ensuring adherence to industry standards and regulations, and managing risk assessments and mitigation strategies.'
+    }    
 ];
 
 export const EDUCATION = [
