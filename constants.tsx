@@ -44,7 +44,7 @@ export const EXPERIENCE = [
     {
         role: 'Cloud Engineer',
         company: 'Solvinity',
-        duration: 'Jan 2020 - Present',
+        duration: 'Sept 2022 - Present',
         description: 'Developed and maintained cloud infrastructure, implemented CI/CD pipelines, and collaborated with cross-functional teams.'
     },
     {
